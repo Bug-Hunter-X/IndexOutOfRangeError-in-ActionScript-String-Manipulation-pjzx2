@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: the IndexOutOfRangeError.  The `bug.as` file contains code that attempts to access a character at an index beyond the length of a string. The `bugSolution.as` file provides a corrected version.
